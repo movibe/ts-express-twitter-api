@@ -1,6 +1,21 @@
 # Twitter Api Bot  
 Container em express para fazer requisições vai API do twitter via request  
  
+ # Requerimentos
+ - NodeJS instalado localmente
+ 
+ # Como rodar
+ 
+ Dentro da pasta, instale os módulos do npm
+ ``` 
+ npm install
+ ````
+ Depois rode o comando start para executar
+ ``` 
+  npm run start
+  ````
+ 
+ 
  # Rotas
  
  ## /
