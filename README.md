@@ -40,6 +40,10 @@ Parâmetros obrigatórios para passar no header da requisição
 Parâmetros obrigatórios e opcionais dependendo da documentação da api do Twitter 
 > Obs: todos os parâmetros tem que começar com p_ para separar dos outros comandos do header, depois do _p, se refere ao nome do campo que a api do twitter irá fazer consulta
 
+Exemplo com base nessa documentação de api
+
+https://developer.twitter.com/en/docs/tweets/timelines/api-reference/get-statuses-user_timeline
+
 ### Exemplo de requisição
 | Header | Value | Description |  
 |--|--| --|  
